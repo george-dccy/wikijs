@@ -1,0 +1,2 @@
+# wikijs
+For wiki.js
